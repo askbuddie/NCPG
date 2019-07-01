@@ -118,7 +118,7 @@ please refer to our Contribution Guide [here](./CONTRIBUTING.md)
  
  :ab: ASK BUDDIE
  ----------
- ABMails is a program created by [AskBuddie Open Source Program](https://github.com/askbuddie) Teams.
+ Nepali Custom Password Generator (NCPG) is a program created by [AskBuddie Open Source Program](https://github.com/askbuddie) Teams.
  [Ask Buddie](https://www.askbuddie.com) is a technology community found in May 16, 2017. Since our 
  founding, we have been providing online solutions and guidance to our 
  users related to technology. Our mission is to create a large community
