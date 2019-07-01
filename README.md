@@ -106,25 +106,52 @@ Data Sources
   * Ncell                                [https://www.ncell.axiata.com/Mobile/Useful-Info/Ncell-Number-Range] 
 
 
-License
--------
+----------
 
-  This program is free software: you can redistribute it and/or modify
-  it under the terms of the GNU General Public License as published by
-  the Free Software Foundation, either version 3 of the License, or
-  any later version.
+## :heart: Contribution
+You wanna contribute to the project? Great to hear that.
 
-  This program is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  GNU General Public License for more details.
+please refer to our Contribution Guide [here](./CONTRIBUTING.md)
 
-  You should have received a copy of the GNU General Public License
-  along with this program . 
+ 
+----------
+ 
+ :ab: ASK BUDDIE
+ ----------
+ ABMails is a program created by [AskBuddie Open Source Program](https://github.com/askbuddie) Teams.
+ [Ask Buddie](https://www.askbuddie.com) is a technology community found in May 16, 2017. Since our 
+ founding, we have been providing online solutions and guidance to our 
+ users related to technology. Our mission is to create a large community
+ of technology enthusiast people to provide support in less time. 
 
+ [Join our community on Facebook](https://www.facebook.com/groups/askbuddie)
 
-Author
-------
+----------
 
-  * Hemanta Pokharel (H9)
-  * Email: Hemanta.pokharel.99@gmail.com
+## :octocat: Author
+
+- **Ask Buddie**
+
+-----------
+
+## :octocat: Primary Contributor
+
+- **[Hemant Pokharel]**
+- https://github.com/Hemant-H9
+
+----------
+
+## :stars: Contributors
+<table>
+  <tr>
+   <td align="center">
+      <a href="https://github.com/Hemant-H9">
+      <img src="https://avatars3.githubusercontent.com/u/35365105?s=460&v=3" width="100px;" alt="Hemanta Pokharel"/>
+      <br />
+      <sub><b>Hemanta Pokharel</b></sub></a>
+      <br />
+    </td>
+    
+-----------
+ :heart: AskBuddie
+
